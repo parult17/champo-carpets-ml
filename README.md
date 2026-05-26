@@ -22,16 +22,6 @@ outputs/
   Generated audit files, EDA tables, model metrics, and report inputs
 ```
 
-## Main Report
-
-The formatted Word report is available at:
-
-```text
-outputs/Champo_Carpets_Main_Report.docx
-```
-
-It follows the requested formatting: A4 page size, Times New Roman, 12-point font, and 1.5 line spacing.
-
 ## How To Run
 
 Run the scripts in this order:
@@ -43,7 +33,6 @@ python scripts/part3_logistic_regression.py
 python scripts/part4_tree_models.py
 python scripts/part5_recommendations.py
 python scripts/part6_report_inputs.py
-python scripts/build_main_report.py
 ```
 
 ## Dataset Note
