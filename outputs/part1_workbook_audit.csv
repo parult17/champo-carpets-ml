@@ -1,0 +1,8 @@
+sheet,rows,columns,missing_cells,duplicate_rows
+Copyright @ IIMB,10,8,79,8
+Raw Data-Order and Sample,18955,16,9,6
+Data Order ONLY,13135,12,0,1984
+Data on Sample ONLY,5820,25,273,4741
+Data for Recommendation,20,44,40,0
+Data for Clustering,45,14,0,0
+Data - Association Rules A-11 ,11,17,66,0

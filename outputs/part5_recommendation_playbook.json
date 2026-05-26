@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "Prioritize sample follow-up for customer/product/shape combinations with historically higher conversion.",
+    "Use low-conversion segments to reduce costly sample creation or require better pre-qualification.",
+    "Use Random Forest feature importance for operational targeting, and Logistic Regression coefficients for explainable business storytelling.",
+    "Cluster customers by quantity, area, amount, and product mix before assigning sales strategies.",
+    "For A-11, use association-rule colors as bundling/design cues rather than a full-company recommendation."
+  ]
+}

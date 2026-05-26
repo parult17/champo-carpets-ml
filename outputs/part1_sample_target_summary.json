@@ -1,0 +1,35 @@
+{
+  "rows": 5820,
+  "target_counts": {
+    "0": 4651,
+    "1": 1169
+  },
+  "conversion_rate": 0.2009,
+  "columns": [
+    "CustomerCode",
+    "CountryName",
+    "USA",
+    "UK",
+    "Italy",
+    "Belgium",
+    "Romania",
+    "Australia",
+    "India",
+    "QtyRequired",
+    "ITEM_NAME",
+    "Hand_Tufted",
+    "Durry",
+    "Double_Back",
+    "Hand_Woven",
+    "Knotted",
+    "Jacquard",
+    "Handloom",
+    "Other",
+    "ShapeName",
+    "REC",
+    "Round",
+    "Square",
+    "AreaFt",
+    "Order_Conversion"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "decision_tree": {
+    "prob": 0.20098776036074725,
+    "n": 4657,
+    "feature": 16,
+    "feature_name": "AreaFt",
+    "threshold": -0.27882259456063635,
+    "left": {
+      "prob": 0.10407597942223981,
+      "n": 2527,
+      "feature": 11,
+      "feature_name": "Other",
+      "threshold": 1.3111892421230098,
+      "left": {
+        "prob": 0.07733443027560674,
+        "n": 2431,
+        "feature": 2,
+        "feature_name": "QtyRequired",
+        "threshold": 1.2089111753242385,
+        "left": {
+          "prob": 0.06760204081632654,
+          "n": 2352,
+          "feature": 8,
+          "feature_name": "Knotted",
+          "threshold": 1.1003510197789137,
+          "left": {
+            "prob": 0.058098591549295774,
+            "n": 2272
+          },
+          "right": {
+            "prob": 0.3375,
+            "n": 80
+          }
+        },
+        "right": {
+          "prob": 0.3670886075949367,
+          "n": 79
+        }
+      },
+      "right": {
+        "prob": 0.78125,
+        "n": 96,
+        "feature": 16,
+        "feature_name": "AreaFt",
+        "threshold": -0.5872131890368464,
+        "left": {
+          "prob": 0.7083333333333334,
+          "n": 48
+        },
+        "right": {
+          "prob": 0.8541666666666666,
+          "n": 48
+        }
+      }
+    },
+    "right": {
+      "prob": 0.315962441314554,
+      "n": 2130,
+      "feature": 16,
+      "feature_name": "AreaFt",
+      "threshold": 2.438916288023025,
+      "left": {
+        "prob": 0.28216818642350555,
+        "n": 1974,
+        "feature": 8,
+        "feature_name": "Knotted",
+        "threshold": 1.1003510197789137,
+        "left": {
+          "prob": 0.257399577167019,
+          "n": 1892,
+          "feature": 16,
+          "feature_name": "AreaFt",
+          "threshold": 1.036176290948137,
+          "left": {
+            "prob": 0.25027563395810365,
+            "n": 1814
+          },
+          "right": {
+            "prob": 0.4230769230769231,
+            "n": 78
+          }
+        },
+        "right": {
+          "prob": 0.8536585365853658,
+          "n": 82
+        }
+      },
+      "right": {
+        "prob": 0.7435897435897436,
+        "n": 156,
+        "feature": 4,
+        "feature_name": "Hand_Tufted",
+        "threshold": -0.33498010703554737,
+        "left": {
+          "prob": 0.6363636363636364,
+          "n": 66
+        },
+        "right": {
+          "prob": 0.8222222222222222,
+          "n": 90
+        }
+      }
+    }
+  }
+}

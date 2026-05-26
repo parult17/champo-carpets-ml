@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,tp,tn,fp,fn
+Decision Tree,0.8366,0.7416,0.2833,0.4099,66,907,23,167
+Random Forest,0.834,0.8333,0.2146,0.3413,50,920,10,183
